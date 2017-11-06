@@ -1,0 +1,97 @@
+@media (max-width:767px) { 
+	
+	.articel_listing{
+	min-height: 200px;
+	background-color:#CFE2FB;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+	.brand, .global_nav, .tools {
+    background-color: #CFE2FB;
+    min-height: 30px;
+    margin-top: 15px;
+}
+	.hero_features {
+    min-height: 36px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    background-color: #CFE2FB;
+}
+	.hero_content {
+    background-color: #9FC5F8;
+    min-height: 76px;
+    margin-bottom: 10px;
+}
+	.articel_feature {
+    min-height: 40px;
+    background-color: #CFE2FB;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+	.add {
+    min-height: 56px;
+    background-color: cornflowerblue;
+    margin-bottom: 10px;
+}
+	.body_contant{
+    background-color: #9FC5F8;
+    min-height: 402px;
+    margin-bottom: 10px;
+}
+	footer {
+    background-color: #9FC5F8;
+    min-height: 45px;
+    margin-bottom: 10px;
+}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	
+	.add{margin-top: 25px;
+	     min-height: 200px}
+		.articel_feature{
+	width: 100%
+	background-color:#CFE2FB;
+	min-height: 200px;}
+	
+	.hero_features {
+    min-height: 55px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    background-color: #CFE2FB;
+}
+	.hero_call_to_action{
+		min-height: 55px;
+	margin-top: 25px;
+	margin-bottom: 15px;
+	background-color: #CFE2FB;
+}
+    .articel_listing{
+	min-height: 200px;
+	background-color:#CFE2FB;
+	margin-top: 25px;
+	margin-bottom: 25px;}
+	
+	
+	.side_bar_feature {
+    background-color: #9FC5F8;
+    min-height: 94px;
+    margin-bottom: 10p;
+}
+	.feature_content {
+    width: 100%;
+    min-height: 55px;
+    background-color: #CFE2FB;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+	
+}
+@media (min-width: 992px) and (max-width: 1199px) { 
+	
+	
+}
+@media (min-width: 1200px) { 
+
+
+
+}

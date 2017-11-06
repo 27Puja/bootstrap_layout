@@ -1,0 +1,64 @@
+.disable_padding_right{
+	padding-right: 0px;
+}
+.disable_padding_left {
+     padding-left: 0px;
+}
+header{
+   background-color: #9FC5F8;
+	min-height: 100px;
+	margin-bottom: 10px;
+}
+.brand,.global_nav,.tools{
+background-color: #CFE2FB;
+	min-height: 70px;
+	margin-top: 15px;
+}
+.hero_content{
+	background-color:#9FC5F8;
+	min-height: 200px;
+	margin-bottom: 10px;
+}
+.hero_features{
+	min-height: 160px;
+	margin-top: 25px;
+	margin-bottom: 15px;
+	background-color:#CFE2FB;
+}
+.hero_call_to_action{
+		min-height: 160px;
+	margin-top: 25px;
+	margin-bottom: 15px;
+	background-color: #CFE2FB;
+}
+.add{
+	min-height: 200px;
+	background-color: cornflowerblue;
+	margin-bottom: 10px;
+}
+.body_contant,.side_bar_feature{
+	 background-color:#9FC5F8;
+	min-height: 450px;
+	margin-bottom: 10px;
+}
+.articel_feature,.articel_listing{
+	min-height: 400px;
+	background-color:#CFE2FB;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+.side_bar_feature{
+	padding: 10px;
+}
+.feature_content{
+	width: 100%;
+	min-height: 400px;
+	background-color:#CFE2FB;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	}
+footer{
+	   background-color: #9FC5F8;
+	min-height: 80px;
+	margin-bottom: 10px;
+}
